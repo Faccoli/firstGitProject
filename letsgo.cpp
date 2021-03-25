@@ -6,6 +6,5 @@ int main()
 {
 	cout << "Git, let's go" << endl;
 	cout << "Added line 1" << endl;
-	cout zz "Added another mistake!!" << endl;
 return 0;
 }
